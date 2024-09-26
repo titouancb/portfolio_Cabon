@@ -9,16 +9,20 @@ Bienvenue sur mon dépôt GitHub ! Je suis un data scientist avec une formation 
 
 ## Mes Projets
 
-### 1. **[Nom du Projet 1](lien_vers_projet_1)**
-   - **Résumé :** Une brève description de ce projet, par exemple : analyse prédictive d'une base de données en utilisant des algorithmes de machine learning.
+### 1. **[Prédiction de la récidive du patient lors d’un cancer de la prostate](en savoir plus)**
+   - **Résumé :** Dans le cadre d'un mémoire de fin de licence, j'ai eu l'opportunité de travailler sur une thématique qui a toujours éveillé ma curiosité, l'analyse des données de santé.
    - **Technologies :** Python, scikit-learn, pandas, matplotlib.
    - **Détails :** Ce projet a permis de développer des modèles de régression pour prévoir ...
 
-### 2. **[Nom du Projet 2](lien_vers_projet_2)**
+### 2. **[Recherche sur le coût environnemental du dernier kilomètre](lien_vers_projet_2)**
    - **Résumé :** Un projet de visualisation de données exploratoire pour une meilleure compréhension des tendances dans les ventes.
    - **Technologies :** Tableau, Python, Seaborn.
 
-### 3. **[Nom du Projet 3](lien_vers_projet_3)**
+### 3. **[Assistant Statisticien - Institut de Santé Publique (EHESP)](lien_vers_projet_3)**
+   - **Résumé :** Création d'un modèle de classification pour prédire la qualité des vins.
+   - **Technologies :** Python, TensorFlow, Keras.
+
+### 4. **[Stagiaire data analyste - NELO KAYAKS ](lien_vers_projet_4)**
    - **Résumé :** Création d'un modèle de classification pour prédire la qualité des vins.
    - **Technologies :** Python, TensorFlow, Keras.
 
