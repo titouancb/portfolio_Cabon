@@ -4,7 +4,7 @@ Bienvenue sur mon dépôt GitHub ! Je suis en recherche d'un stage de 6 mois de 
 Voici un aperçu de mes projets et contributions.
 
 ## À propos de moi
-- **Formation :** Master MAS (Mathématiques Appliquées, Statistique) option sciences des données et IA, Licence MIASHS, DUT STID.
+- **Formations :** Master MAS (Mathématiques Appliquées, Statistique) option sciences des données et IA, Licence MIASHS, DUT STID.
 - **Compétences :** Statistique, Data Visualization, Apprentissage automatique, Deep Learning...
 - **Contact :** [titouan.cabon@gmail.com](mailto:titouan.cabon@gmail.com) 07 69 81 09 03
 - **CV :** [Lien vers mon CV](https://acrobat.adobe.com/id/urn:aaid:sc:EU:001ff1e8-864e-40dc-8448-381fb0d45f25)
@@ -28,5 +28,5 @@ Voici un aperçu de mes projets et contributions.
    - **Résumé :** 
    - **Technologies :** Python, TensorFlow, Keras.
 
-## Autres Contributions
-- **[Quel est le visage politique de la France en 2022](lien_vers_projet_open_source)** : Contribution à un projet de visualisation open-source pour l'amélioration des dashboards interactifs.
+## Autres travaux 
+- **[Quel est le visage politique de la France en 2022 ?](https://acrobat.adobe.com/id/urn:aaid:sc:EU:deddba9d-e1ac-4019-8575-fb8fd1a0f859)** : Dans le cadre de mon Magistère "Statistique et Modélisation Économique", j'ai choisi de réaliser une interface PowerBI qui met en lumière les résultats des éléctions présidentielles de 2022. J'ai utilisé ce logiciel pour fusionner plusieurs bases de données (OpenData) et analyser les résultats de la façon la plus pertinente possible.
