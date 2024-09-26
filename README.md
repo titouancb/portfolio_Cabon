@@ -21,12 +21,12 @@ Voici un aperçu de mes projets et contributions.
    - **Technologies :** Tableau, Python, Seaborn.
 
 ### 3. **[Assistant Statisticien - Institut de Santé Publique (EHESP)](lien_vers_projet_3)**
-   - **Résumé :** Création d'un modèle de classification pour prédire la qualité des vins.
+   - **Résumé :** En parallèle de mes études, j'occupe un poste d'assistant statisticien au sein du département DAD (Département d'Aide à la Décision)
    - **Technologies :** Python, TensorFlow, Keras.
 
 ### 4. **[Stagiaire data analyste - NELO KAYAKS ](lien_vers_projet_4)**
-   - **Résumé :** Création d'un modèle de classification pour prédire la qualité des vins.
+   - **Résumé :** 
    - **Technologies :** Python, TensorFlow, Keras.
 
 ## Autres Contributions
-- **[Projet Open Source](lien_vers_projet_open_source)** : Contribution à un projet de visualisation open-source pour l'amélioration des dashboards interactifs.
+- **[Quel est le visage politique de la France en 2022](lien_vers_projet_open_source)** : Contribution à un projet de visualisation open-source pour l'amélioration des dashboards interactifs.
