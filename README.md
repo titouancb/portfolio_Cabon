@@ -13,20 +13,19 @@ Voici un aperçu de mes projets et contributions.
 
 ### 1. **[Prédiction de la récidive du patient lors d’un cancer de la prostate](en_savoir_plus)**
    - **Résumé :** Dans le cadre d'un mémoire de fin de licence, j'ai eu l'opportunité de travailler sur une thématique qui a toujours éveillé ma curiosité, l'analyse des données de santé.
-   - **Technologies :** Python, scikit-learn, pandas, matplotlib.
-   - **Détails :** Ce projet a permis de développer des modèles de régression pour prévoir ...
+   - **Principales technologies :** Rstudio Packages e1071, caret, rpart...
 
 ### 2. **[Recherche sur le coût environnemental du dernier kilomètre](lien_vers_projet_2)**
-   - **Résumé :** Un projet de visualisation de données exploratoire pour une meilleure compréhension des tendances dans les ventes.
-   - **Technologies :** Tableau, Python, Seaborn.
+   - **Résumé :** Dans le cadre du projet de recherche « Project Trans Analytics » mené par le CREM (rattaché au CNRS), mon rôle était d'analyser un grand nombre de bases de données afin d'étudier les comportements des volontaires de l'étude sur une thématique précise : l’impact économique et environnemental du dernier maillon de la chaine de livraison, le dernier kilomètre
+   - **Principales technologies :** SQL, VBA, Rstudio/Shiny
 
 ### 3. **[Assistant Statisticien - Institut de Santé Publique (EHESP)](lien_vers_projet_3)**
-   - **Résumé :** En parallèle de mes études, j'occupe un poste d'assistant statisticien au sein du département DAD (Département d'Aide à la Décision)
-   - **Technologies :** Python, TensorFlow, Keras.
+   - **Résumé :** En parallèle de mes études, j'occupe un poste d'assistant statisticien au sein du département DAD (Département d'Aide à la Décision). Ma mission principale est de réaliser, analyser et présenter les résultats des données d'enquête concernant le suivi des diplômés des masters de l'école.
+   - **Technologies :** SphinxOnline, IQ3
 
-### 4. **[Stagiaire data analyste - NELO KAYAKS ](lien_vers_projet_4)**
-   - **Résumé :** 
-   - **Technologies :** Python, TensorFlow, Keras.
+### 4. **[Stagiaire data analyste - NELO KAYAKS, Porto ](lien_vers_projet_4)**
+   - **Résumé :** Pour la fin de mon DUT Statistique et Informatique Décisionnelle, j'ai eu l'opportunité de réaliser un stage au sein de l'entreprise NELO Kayaks, afin de mener une analyse sur le processus de fabrication des équipements sportifs afin de les optimiser et de les perfectionner
+   - **Technologies :** SQL, Azure Data Studio, Rstudio, Tableau
 
 ## Autres travaux 
 - **[Quel est le visage politique de la France en 2022 ?](https://acrobat.adobe.com/id/urn:aaid:sc:EU:deddba9d-e1ac-4019-8575-fb8fd1a0f859)** : Dans le cadre de mon Magistère "Statistique et Modélisation Économique", j'ai choisi de réaliser une interface PowerBI qui met en lumière les résultats des éléctions présidentielles de 2022. J'ai utilisé ce logiciel pour fusionner plusieurs bases de données (OpenData) et analyser les résultats de la façon la plus pertinente possible.
