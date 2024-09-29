@@ -11,11 +11,11 @@ Voici un aperçu de mes projets et contributions.
 
 ## Mes Projets
 
-### 1. **[Prédiction de la récidive du patient lors d’un cancer de la prostate](Prediction_Cancer)**
+### 1. **[Prédiction de la récidive du patient lors d’un cancer de la prostate](Prediction_Cancer.md)**
    - **Résumé :** Dans le cadre d'un mémoire de fin de licence, j'ai eu l'opportunité de travailler sur une thématique qui a toujours éveillé ma curiosité, l'analyse des données de santé.
    - **Principales technologies :** Rstudio Packages e1071, caret, rpart...
 
-### 2. **[Recherche sur le coût environnemental du dernier kilomètre](Impact_Dernier_Kilometre)**
+### 2. **[Recherche sur le coût environnemental du dernier kilomètre](Impact_Dernier_Kilometre.md)**
    - **Résumé :** Dans le cadre du projet de recherche « Project Trans Analytics » mené par le CREM (rattaché au CNRS), mon rôle était d'analyser un grand nombre de bases de données afin d'étudier les comportements des volontaires de l'étude sur une thématique précise : l’impact économique et environnemental du dernier maillon de la chaine de livraison, le dernier kilomètre
    - **Principales technologies :** SQL, VBA, Rstudio/Shiny
 
