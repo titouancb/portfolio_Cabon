@@ -19,11 +19,11 @@ Voici un aperçu de mes projets et contributions.
    - **Résumé :** Dans le cadre du projet de recherche « Project Trans Analytics » mené par le CREM (rattaché au CNRS), mon rôle était d'analyser un grand nombre de bases de données afin d'étudier les comportements des volontaires de l'étude sur une thématique précise : l’impact économique et environnemental du dernier maillon de la chaine de livraison, le dernier kilomètre
    - **Principales technologies :** SQL, VBA, Rstudio/Shiny
 
-### 3. **[Assistant Statisticien - Institut de Santé Publique (EHESP)](Devenir_des_Etudiants_EHESP)**
+### 3. **[Assistant Statisticien - Institut de Santé Publique (EHESP)](Devenir_des_Etudiants_EHESP.md)**
    - **Résumé :** En parallèle de mes études, j'occupe un poste d'assistant statisticien au sein du département DAD (Département d'Aide à la Décision). Ma mission principale est de réaliser, analyser et présenter les résultats des données d'enquête concernant le suivi des diplômés des masters de l'école.
    - **Technologies :** SphinxOnline, IQ3
 
-### 4. **[Stagiaire data analyste - NELO KAYAKS, Porto ](Control_Quality_Process_of_Production)**
+### 4. **[Stagiaire data analyste - NELO KAYAKS, Porto ](Control_Quality_Process_of_Production.md)**
    - **Résumé :** Pour la fin de mon DUT Statistique et Informatique Décisionnelle, j'ai eu l'opportunité de réaliser un stage au sein de l'entreprise NELO Kayaks, afin de mener une analyse sur le processus de fabrication des équipements sportifs afin de les optimiser et de les perfectionner
    - **Technologies :** SQL, Azure Data Studio, Rstudio, Tableau
 
