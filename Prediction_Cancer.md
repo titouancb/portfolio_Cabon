@@ -9,7 +9,7 @@ Nous avons tout de suité été, avec mon équipe, enthousiasmés par l'idée de
 
 ## Le traitement des données
 
-Après un premier échange sur les attentes du projet, notre encadrante, Aurélie Fargeas, nous a transmis la base de données avec laquelle nous allions travailler. Elle contenait initialement 100 varibles pour 565 individus. Voici un rapide résumé des tâches qui ont été réalisées dessus : 
+Après un premier échange sur les attentes du projet, notre encadrante, Aurélie Fargeas, nous a transmis la base de données avec laquelle nous allions travailler. Elle contenait initialement 100 variables pour 565 individus. Voici un rapide résumé des tâches qui ont été réalisées dessus : 
 
 - Nettoyage de la base (traitement des NA, valeurs aberrantes...)
 - Statistiques Descriptives (Tendance centrale, dispersion, représentation graphique croisée...)
@@ -18,4 +18,12 @@ Après un premier échange sur les attentes du projet, notre encadrante, Auréli
 
 Une fois avoir pris le temps de nettoyer et mieux appréhender la base de données, nous avons cherché à créer un modèle qui était des plus pertinent pour chercher à expliquer les saignements des patients et leurs récidives.
 
-- Séparation en échantillon apprentissage/test (<Leave one cross out>)
+- Séparation en échantillon apprentissage/test (Leave one cross out)
+- Régression logistique
+- Test de Wald
+
+Ce modèle nous a permis de prédire la récidive avec une certaine probabilité.
+
+## Traitement d'image
+
+Cela n'est pas mentionné dans le rapport, mais nous avons à la suite du rendu du projet, continué à travailler dessus et notamment sur l'aspect traitement des images. Nous avons récupéré l'ensemble des IRM des patients et avons, utilisés différents packages avec R tels que "png" pour, avec la valeur des pixels, essayer de mettre en place des méthodes de deep learning qui détectent des groupes ayant des caractéristiques communes pour prévenir des chances de récidives.
